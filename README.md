@@ -4,6 +4,6 @@ Estudos independentes das ameaças levantadas pela OWASP Top 10 e pelos demais p
 
 ## TODO
 
-[] Substituir prints por relatórios
-[] Breve explicação teórica
-[] Avaliar se criação de checklists seria benéfico
+- [ ] Substituir prints por relatórios
+- [ ] Breve explicação teórica
+- [ ] Avaliar se criação de checklists seria benéfico
